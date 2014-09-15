@@ -5,7 +5,8 @@ Members: Joni Sarjosalo, Jaber Ahmed, Laura Viirtelä
 ==================================
 
 
-Software engineering 2014 project template
-
-* This repository provides the skeleton of the software engineering project work
-* It contains 7 markdown files, one for each chapter of the documentation
+Personal comments  
+Joni Sarjosalo  
+I'm kind of quietly excited about working on this. I thought that not getting to create anything (codewise) would be  
+boring, but turns out that just brainstorming ideas and putting serious thought into writing documentation is also  
+educational.
