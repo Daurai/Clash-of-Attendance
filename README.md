@@ -1,6 +1,7 @@
 Software Engineering 2014  
 Codename 'Clash of Attendance'
 Members: Joni Sarjosalo, Jaber Ahmed, Laura Viirtelä
+
 ==================================
 
 
