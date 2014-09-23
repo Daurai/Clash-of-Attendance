@@ -23,23 +23,37 @@ Developers/admins use the software to monitor and collect data. Fix bugs as repo
 ##### 1. Student
 
 ###### Initial state:
- * Student uploads files to return an assingment and clicks "Return to teacher".
+ * Student chooses to view available points and to spend them if possible.
 
 ###### Normal flow:
- * System accepts the student's assignment, uploads it to the server and shows a message saying "Upload successful". Teacher can then check and grade the assignment on their end.
+ * Application accepts the request, shows student the available points and all possible targets they can spend points on. Student selects an upgrade to purchase and the system awards that upgrade instantly, crediting the user's account with it.
 
-###### What can go wrong:**
- * System fails to upload attached files to the server. System fails to return the assingment successfully, showing an error message (e.g. deadline passed), the user can then choose to back out of the use case or try again.
+###### Failure states:
+ * Application can't contact the database or server for the user's account, failing the request to show points. Application could also fail to update the user's upgrade purchase to his/her account. Clear error messaging is an absolute must.
 
 ###### Other activities:
- * Messages displayed, showing the user what is happening at each state of the return process.
+ * Application processing a multitude of requests from several users. Point totals being updated constantly.
 
 ###### End state:
- * Assignment returned successfully; system shows a message informing the user of that fact.
+ * Student either views the point total and stops using the application or purchases an upgrade successfully and then logs out. 
 
+##### 2. Teacher
 
-* Main use cases described more in detail, based on a template
-  * a template: initial state, normal flow, end state
-  * a template also tells how a use case can fail
-  * in addition, you can describe alternative flows of the case
-* Choose one of the use case templates and describe it as a flow chart
+###### Initial state:
+* The teacher chooses to assign a challenge to one course group.
+
+###### Normal flow:
+* The system complies to the request and brings up a list of all course groups under the teacher's supervision and upon selecting one, brings up a list of all possible challenges. These challenges would vary depending on the archetype of the course. Once the challenge is selected, the system would show a message saying "Challenge assigned", and then the students of that course would be able to see the challenge on their side.
+
+###### Failure states:
+* No courses are visible for the teacher. No possible challenges can be assigned for whatever reason. Once the challenge is selected, the system could fail to assign it to the group. The system might also fail to show the assigned challenge on the students' end (a myriad of frightening failure states then).
+
+###### Other activities:
+* Other teachers are assigning challenges at the same time. Students are viewing the application front end on their side and attempting complete challenges.
+
+###### End state:
+* Challenge is successfully assigned for completion, teacher logs out.
+
+#### Use case flow chart
+
+<img src="http://users.metropolia.fi/~jonisarj/coa_flowchart.png" alt="flow chart">
