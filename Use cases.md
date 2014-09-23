@@ -19,6 +19,25 @@ Developers/admins use the software to monitor and collect data. Fix bugs as repo
 <img src="http://users.metropolia.fi/~jonisarj/coa_usecases.png" alt="use cases">
 
 #### Use case cenarios
+
+##### 1. Student
+
+###### Initial state:
+ * Student uploads files to return an assingment and clicks "Return to teacher".
+
+###### Normal flow:
+ * System accepts the student's assignment, uploads it to the server and shows a message saying "Upload successful". Teacher can then check and grade the assignment on their end.
+
+###### What can go wrong:**
+ * System fails to upload attached files to the server. System fails to return the assingment successfully, showing an error message (e.g. deadline passed), the user can then choose to back out of the use case or try again.
+
+###### Other activities:
+ * Messages displayed, showing the user what is happening at each state of the return process.
+
+###### End state:
+ * Assignment returned successfully; system shows a message informing the user of that fact.
+
+
 * Main use cases described more in detail, based on a template
   * a template: initial state, normal flow, end state
   * a template also tells how a use case can fail
