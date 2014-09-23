@@ -1,4 +1,4 @@
-### 3. Use Cases and User Flow
+### Chapter 3: Use Cases and User Flow
 
 #### 1. Students 
 
