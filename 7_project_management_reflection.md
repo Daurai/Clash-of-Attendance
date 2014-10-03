@@ -1,4 +1,6 @@
-### Project management, self reflection, last chapter
+### Chapter 7: Project management and reflections
+
+####
 
 * Sum up here your project
 * Was it successful, how was the communication
