@@ -29,4 +29,8 @@ Wireless connection stability - obviously a stable, working wireless internet co
 
 Accuracy of the indoor positioning system - the size and positions of the classrooms should be accurately triangulated in the indoor positioning system inorder for the attendance logging to be hard to exploit by students.
 
-Automatic login - in order to make matters simpler for users, the application could store 
+Automatic login - in order to make matters simpler for users, the application could store the login credentials of users in order to facilitate and speed up the login process.
+
+Neat and customizable user interface -  the user interface of the application should be easy to navigate and use. Menu options should be clearly described, and some customization of the user interface could be allowed (for example, an option to switch the map service on or off, as it may not be necessary for students who know their way around already).
+
+Reward system - the application can have upcoming rewards that are possible to get, as well any rewards the student is already eligible for, displayed. This is so that students have an actual incentive to attend classes as well as use the application in the future. 
