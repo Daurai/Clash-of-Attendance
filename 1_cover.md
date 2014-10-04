@@ -1,8 +1,3 @@
-### This is the cover page of your document
-
-List here the following details:
-* Project title, name of the product
-* Team name
-* Team members
-* Date
-
+#####Project name: Clash of Attendance
+#####Team members: Laura Viirtelä, Joni Sarjosalo, Jaber Ahmed
+#####4.10.2014
