@@ -1,6 +1,6 @@
 ### User interface
 
-* On our very first sketch we think about it on mobile platform.We have also plan for computer and other devices so that the student shouldn't be worry about his attendence.But if he has a smartphone then it will be more beneficiable for them no doubt.
+* In our very first sketch we think about the application on a mobile platform. We also have initial ideas for the application to work on computers and other devices; this way the student doesn't have to worry about his attendence. But if everyone had a smartphone, our planned application would be simpler to develop without a doubt.
  
  Here are some sketches so that people can get a rough idea about our project
 
@@ -8,9 +8,8 @@
 
 ##### Design of UI
 
-The User must have to connect the school intranet to log in and he/she will get all the necessary info there.In home page there is a time clock which will constantly tell them about their next class name and place and a indoor map which helps the student find his class inside of his school.Because of school's internal network connection and door to door beacon we will try to make the map as perfect so that it can even differentiate every meter.In adission we also though about voice navigation system as well.Also student can see their upcomming classes though the mobile app and his own attendence records so that he can track himself as well.Also if he missing classes more often the notification system will now and then notifies the student about his bunks.
- 
+The User must connect to the school intranet in order to log in and he/she will get all the necessary info there. On the homepage, there is a time clock which will tell users their next class (name, place and an indoor map), which helps the student find his class. Because of the school's network and its internal positioning system, we would try to make the map as perfect as possible. We also thought about a voice navigation system that would guide students inside the school much like a GPS. According to our documentation, every student could see their upcoming classes through the mobile app. The app would also contain the student's attendence records, so that he/she could track their performance. The application would inform the student if they were missing classes more often than average.
 
 ##### Navigation
 
-For indoor navigation a beacon is our first priority so that it will locate the student every meter by meter.We all know in school and universities every room represent every class.So to locate the student more accurately we are trying to implement a jammer based system.Jammer system is actually a strong network hub allowing only a single network on it's range and prevent other similar signal on it's mother network.So basically when a student enter a class the jammer system locates him/her with his gps signal and will provide that specific class network though it is a part of school's own secure connection. 
+As for the indoor navigation, an accurate beacon is our first priority (the beacon would ideally be accurate to within a meter). In order to track students more accurately, our plan was to implement a jammer-based system. This would essentially work as a strong network hub, allowing only a single network within its range and prevent other similar signals from interfering. This means that when a student enters a class, the jammer locates him/her based on their positioning signal and will only give access to one network. 
