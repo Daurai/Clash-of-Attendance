@@ -10,16 +10,11 @@ Our communication and ideas for this project were quite good, so the main thing 
 
 #### The easy and the hard
 
-
+Coming up with a plan for the project was definitely an easy thing to do, but I think well underestimated how much extra thinking we'd have to put in towards all the individual user levels and application parts that are required. It all ended up being a big rush to the finish as we came up with more and more stuff to write in the last few days.
 
 #### Hours
 
 Joni Sarjosalo: 4-5 hours.
 Laura Viirtelä: ~4 hours
 
-
-* Was it successful, how was the communication
-* What you would do differently for the next project
-* What were the easy parts in the project? What was hard?
-* List here also estimation of hours spend in total and by each member in the project
 
