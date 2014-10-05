@@ -1,15 +1,13 @@
 ### Chapter 4, system architecture
 
+In this section we've tried to give you an overview of what our system's database would look like. Even though it is not the final version that could be built, this should give everyone a rough view of the necessary components of our application. In the diagrams below, you will note that the admin panel has the access all of the databases. This means that an admin can add or delete any user or remove their history at any time. This account is used for solving bugs or developing further improvements.
 
+Another view of our system is the teachers' section, in which teachers can only see their courses and the students' attendance records. The teacher can send notifications to specific students if they so choose, and that notification will be shown for that student on their side of the application.
 
-In here we tried to give you a view of how our system database will be. Though it is not the final version we built and more improvement will be done to this soon. As you have seen the diagram the Admin panel has the access of all the databases. So at anytime an admin can add or delete any user or remove their history. This account is used for solving bugs or further improvements.
-
-As you can also see there is a teachers section by which teacher can only see his courses and the students attendance percentages. Also teacher can send notification to specific student if he want  and it will be shown that specific student’s notification.
-
-And last section is the student section or the user. Here the students can see their enrolled courses and attendance percentages and notification about class.
+The last section is the student or user section. Here the students can see all of their enrolled courses and attendance records as well as notifications about classes.
 
 ### Databases :
 
-We made here couple of databases as well like Class, Students, Teachers, Group, Course etc to keep the data store in specific section.
+Here we have few databases; such as Class, Students, Teachers, Group, Course, etc. to keep all user data separate and viewable only to those with the correct access levels.
 
 
