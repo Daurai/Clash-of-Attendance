@@ -4,7 +4,9 @@ In this section we've tried to give you an overview of what our system's databas
 
 Another view of our system is the teachers' section, in which teachers can only see their courses and the students' attendance records. The teacher can send notifications to specific students if they so choose, and that notification will be shown for that student on their side of the application.
 
-The last section is the student or user section. Here the students can see all of their enrolled courses and attendance records as well as notifications about classes.
+Another section is the student or user section. Here the students can see all of their enrolled courses and attendance records as well as notifications about classes.
+
+ <img src="http://i62.tinypic.com/i5z0a0.png" alt="SA">
 
 ### Databases :
 
