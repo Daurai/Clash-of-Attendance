@@ -6,7 +6,7 @@ All in all, we started out with a very clear plan for our project during the ver
 
 #### Next project
 
-
+Our communication and ideas for this project were quite good, so the main thing we would have to work on for the next project would be our time management. For the next project we would have to set ourselves a clearer timetable and keep to it better than we did this time around.
 
 #### The easy and the hard
 
@@ -15,6 +15,7 @@ All in all, we started out with a very clear plan for our project during the ver
 #### Hours
 
 Joni Sarjosalo: 4-5 hours.
+Laura Viirtelä: ~4 hours
 
 
 * Was it successful, how was the communication
